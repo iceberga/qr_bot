@@ -1,0 +1,6 @@
+aiogram<4.0
+aiosqlite==0.20.0
+opencv-python==4.9.0.80
+selenium==4.18.1
+qrcode==7.4.2
+webdriver-manager==4.0.1
