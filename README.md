@@ -11,3 +11,14 @@ Project was developed for cafe's bonus programm. It is not a full version of cod
 ## Instruction
 1. After download the repository you have to make a folder named 'sql' in main project folder. This folder will contain a database with tables. Also you need to recieve your own BOT_TOKEN via @BotFather and include it into config.ini (token = BOT_TOKEN).
 2. To make user as Admin you need to add his user_id in admin_ids.
+
+## Launch of the project
+1. At first, you need to create virtual enviroment and activate it.
+2. Install all necessary libs with command
+```
+pip list -r reqiurements.txt
+```
+3. Run
+```
+python bot.py
+```
