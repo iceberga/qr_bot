@@ -8,4 +8,6 @@ Project was developed for cafe's bonus programm. It is not a full version of cod
 2. User can register in bonus programm just sharing his phone number with bot. After registration he can check his status in bonus programm, send his purchase's check to bot and if he has enough purchases he can get his bonus via creating new qr-code by bot and show it to Admin.
 3. Admin can register User's bonus by making a photo of generated qr-code. After it he will see on his screen the kind of bonus User got (for example, Сappuccino 300ml) and the user_id of User under it (this is necessary to write off the User's bonus)
 
-## Install and Configuration
+## Instruction
+1. After download the repository you have to make a folder named 'sql' in main project folder. This folder will contain a database with tables. Also you need to recieve your own BOT_TOKEN via @BotFather and include it into config.ini (token = BOT_TOKEN).
+2. 
